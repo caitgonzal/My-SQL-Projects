@@ -1,5 +1,5 @@
 Situation
-TechPulse Solutions, a leading electronics retailer, has collected sales data for mobile devices (smartphones, tablets) and laptops over the past few years. However, the data is currently unstructured, making it difficult to extract meaningful insights. Key stakeholders need a clear understanding of sales performance, customer preferences, and market trends to optimize inventory, marketing strategies, and revenue growth.
+TechPulse Solutions, a leading electronics retailer, has collected sales data for mobile devices and laptops over the past few years. However, the data is currently unstructured, making it difficult to extract meaningful insights. Key stakeholders need a clear understanding of sales performance, customer preferences, and market trends to optimize inventory, marketing strategies, and revenue growth.
 
 There are concerns about:
 - Declining sales in certain product categories
