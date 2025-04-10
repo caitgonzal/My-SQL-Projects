@@ -1,0 +1,110 @@
+Market Overview
+
+	Key Metrics
+
+	Total Sales Volume: 275689 units
+	Total Revenue: $5,132,070,354
+	Average Order Value: $102,641.41
+	Unique Customers: 40,013
+
+MO - Insights
+
+The extremely high average-order-value suggests this is a B2B or enterprise driven market. Low customer count relative to revenue indicated purchases are large-scale and not individual consumer driven. If year-over-year growth is positive, this could signal strong institutional demand. If customer count is increasing, the market may be expanding into new sectors. If AOV is rising, buyers are purchasing higher-tier products.
+
+Recommended Actions
+
+Focus on Retention
+Monitor Economic Risks
+
+Brand Performance Analysis
+
+	Top Performing Brands
+	Google: $270,994,713 (5.28% of total revenue)
+	Nokia: $268,496,172 (5.23% of total revenue)
+	Toshiba: $266,294,309 (5.19% of total revenue)
+
+
+	Price Positioning (Limited to Top 3 Performing Brands)
+	Google: $99,226.87 (Above market average by 23.64%)
+	Nokia: $108,231.14 (Above market average by 34.85%)
+	Toshiba: $102,010.86 (Above market average by 27.10%)
+
+BPA - Insights
+
+Revenue is tightly contested. A slight push in marketing or distribution could shift rankings. All 3 brands are above market average which suggests they have a strong brand equity and sell high-end industrial products. Nokia has the highest price but not the highest revenue indicating it has a lower sales volume and should optimize pricing for higher market share.
+
+Recommended Actions
+
+For Google: Leverage Brand Strength
+For Nokia: Test Price Elasticity
+For Toshiba: Close the gap with Google/Nokia
+Track competitor pricing weekly to watch for disruption
+
+Product Performance Deep Dive
+	
+	Best Sellers
+	Laptop: 138,019 units
+	Mobile Phones: 137,670 units
+
+	Specification Trends
+	Most Popular Core: i5, 3215 units (12.85% of core sales)
+	Most Popular Processor: MediaTek Dimensity, 3640 units (7.28% of processor sales)
+	Most Popular RAM: 4G, 8417 units (17.03% of RAM sales)
+	Most Popular ROM: 256GB, 10127 (20.25% of ROM sales)
+	Most Popular SSD: 256GB, 6301 (25.19% of SSD sales)
+
+PPDD - Key Insights
+
+Near 50/50 split in product demand, brands can bundle the products to sell together. Mid-range laptops are the sweet spot for buyers. 256GB storage is a new standard indicating users prioritize media/gaming.
+
+Recommended Actions
+
+Product Bundling
+Inventory Optimization
+Targeted Marketing
+Competitive Watch
+Start promoting 8GB as new baseline due to 4GB RAM laptops may soon become obsolete.
+
+
+Geographic Performance
+
+	Top Regions
+	West: $1,062,003,381 (20.69% of total revenue)
+	South: $1,027,956,653 (20.035 of total revenue)
+	
+	Regional Preference (Limited to Top 2 Total Revenue Regions)
+	The West prefers the brand Nokia and the product Laptop
+	The South prefers the brand Google the product Laptop
+
+GP - Insights
+
+Laptops dominate the top regions. The West's preference of Nokia is likely strong due to B2B trust. The South's preference of Google is due to a possible stronger brand affinity in tech hubs.
+
+Recommendations
+
+Nokia: Promote durability & monitor Google's growth
+Google: Leverage Google's ecosystem & provide incentivized upgrades
+If hybrid work declines, sales will drop. Both companies should push hybrid products.
+
+Customer Insights
+
+	Customer Base
+	80.03% unique customers
+	19.97% repeat customers
+	
+	Top Customer
+	Robert Smith: 22 orders worth $2093568
+	Michael Johnson: 21 orders worth 2592132
+	
+	
+CI -Insights
+
+80% of customers don't return. 20% repeat buyers likely generate the most profit. Michael Johnson spends 30% more per order than Robert Smith, he is likely a higher-tier buyer. Robert Smith orders more frequently, may respond well to subscription models or bulk discounts.
+
+Recommendations
+
+VIP Loyalty Program
+Personalized Account Management
+Win-Back Campaigns
+Improve First-Time Experience
+To improve retention, run a 6-month pilot with personalized thank you gifts for repeat customers. 

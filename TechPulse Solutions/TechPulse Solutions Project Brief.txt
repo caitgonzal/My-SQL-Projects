@@ -1,0 +1,26 @@
+Situation
+TechPulse Solutions, a leading electronics retailer, has collected sales data for mobile devices (smartphones, tablets) and laptops over the past few years. However, the data is currently unstructured, making it difficult to extract meaningful insights. Key stakeholders need a clear understanding of sales performance, customer preferences, and market trends to optimize inventory, marketing strategies, and revenue growth.
+
+There are concerns about:
+- Declining sales in certain product categories
+- Inconsistent regional performance
+- Unclear customer purchasing patterns
+
+Assignment
+As a Data Analyst, your task is to:
+- Clean and structure the dataset for analysis.
+- Perform exploratory data analysis (EDA) to identify trends, anomalies, and key metrics.
+- Generate actionable insights through SQL queries to help the business make data-driven decisions.
+
+Objectives
+- Sales Performance Analysis
+- Regional & Customer Insights
+- Revenue & Profitability Optimization
+
+
+Expected Deliverables
+- A SQL script with queries for data cleaning, transformation, and analysis.
+- A summary report (or dashboard) highlighting key findings.
+- Recommendations for improving sales strategies.
+
+
