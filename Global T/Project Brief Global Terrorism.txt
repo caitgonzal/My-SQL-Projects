@@ -1,0 +1,57 @@
+Project Brief: Global Terrorism Analysis
+
+Situation:
+The Global Terrorism Database (GTD) contains detailed records of over 180,000 terrorist attacks worldwide from 1970 to 2017 (excluding 1993). Governments, security agencies, and policymakers rely on data-driven insights to understand terrorism trends, assess threats, and allocate resources effectively. As a Data Analyst, your task is to analyze this dataset to uncover patterns, identify high-risk regions, and evaluate attack methodologies.
+
+Assignment:
+Using SQL, you will extract, transform, and analyze the GTD to answer key security-related questions. Your analysis should provide actionable insights for counterterrorism efforts, risk assessment, and policy recommendations.
+
+Objectives:
+Trend Analysis
+
+	Identify the yearly trend in terrorist attacks (1970–2017).
+
+	Determine if terrorism has increased or decreased over time.
+
+	Compare attack frequency before and after major global events (e.g., 9/11, the Iraq War).
+
+Geographical Hotspots
+
+	Rank countries and regions by the number of attacks and fatalities.
+
+	Identify cities with the highest attack rates.
+
+	Analyze whether terrorism is concentrated in specific areas or spreading.
+
+Attack Methods & Targets
+
+	Determine the most common attack types (bombings, armed assaults, kidnappings, etc.).
+
+	Identify the most frequent targets (civilians, government, military, religious institutions, etc.).
+
+	Assess which attack methods cause the highest casualties.
+
+Terrorist Group Analysis
+
+	List the most active terrorist groups by attack count.
+
+	Track the lethality (fatalities per attack) of major groups.
+
+	Examine whether certain groups specialize in specific attack types.
+
+Success Rate & Impact
+
+	Calculate the success rate of terrorist attacks (success vs. failed/attempted).
+
+	Analyze correlations between attack success and factors like region, weapon type, or group.
+
+	Evaluate the economic and human cost (casualties, injuries, property damage).
+
+Expected Deliverables:
+A SQL script with queries to extract relevant insights.
+
+A summary report (can be a README or PDF) explaining key findings.
+
+Visualizations (if using SQL with BI tools like Tableau/Power BI) showing trends, maps, and attack distributions.
+
+
