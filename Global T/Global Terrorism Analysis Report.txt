@@ -1,0 +1,48 @@
+Global Terrorism Analysis Report
+
+Overall Trends
+
+	Frequency Over Time
+	2015: Baseline Year
+	2016: (+2.9% increase)
+	2017: (+11.9% increase)
+	2018: (-2.8% decrease)
+	2019: (-15.2% decrease)
+	2020: (+19.8% increase)
+	2021: (-5.1 decrease)
+	2022: (+6.4% increase)
+	2023: (-0.9% decrease)
+	2024: (-5.1% decrease)
+
+	Geographical Hotspots
+	United Kingdom (321 attacks, 157,464,983 users)
+	Brazil (310 attacks, 168,806,980 users)
+	India (308 attacks, 149,178,659 users)
+
+Attack Methods & Impact
+
+	Most Common Attack Type
+	DDoS was the most frequent (531 attacks) and had the most affected users (265,201,265 users)
+
+Perpetrator Analysis
+
+	Top Attack Sources
+	Nation-State attack sources were responsible for 25.4% of attacks, causing 26.7% of total financial losses.
+
+Economic Cost
+
+	Financial Losses & Affected Users
+	UK suffered the highest financial damage ($16.5 billion). Although UK had more attacks and financial loss, Brazil had the most affected users.
+
+Recommendations & Insights
+	UK accounted for 10.7% of global attacks, with 10.9% of total financial losses. No consistent upward or downward trend, attacks fluctuated between 263-319. 2017 spike could be linked to geopolitical events. 2019 drop could 	reflect counterterrorism successes.
+
+	Investigate 2017 spike
+	Assess 2019 decline
+	Monitor 2024 data
+	Mitigate DDoS risks
+	Reduce Malware impact
+	Strengthen Human Defenses (MFA)
+	Prioritize countries for counterterrorism resources
+	Focus on DDoS mitigation
+	Monitor Nation-States
