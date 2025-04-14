@@ -1,4 +1,4 @@
-USE gloabl_terrorism;
+USE global_terrorism;
 
 -- Trend Analysis
 
