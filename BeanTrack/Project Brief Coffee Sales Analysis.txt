@@ -1,0 +1,40 @@
+Project Brief: Coffee Sales Analysis & Customer Insights
+Situation:
+You are a Data Analyst at BeanTrack, a coffee distribution company operating in Saudi Arabia. The company has collected two years of sales data (2023-2024) from 100 customers purchasing five different types of coffee beans (Brazilian, Ethiopian, Colombian, Costa Rican, and Guatemalan). Management wants to extract actionable insights to optimize pricing, promotions, and inventory while improving customer engagement.
+
+Assignment:
+Using the Coffee Sales Dataset, analyze sales performance, customer behavior, and pricing strategies. Your findings will help the marketing and sales teams make data-driven decisions to increase revenue and customer satisfaction.
+
+Objectives:
+Sales Performance Analysis
+
+Identify daily, weekly, and monthly sales trends.
+
+Compare sales performance across different coffee types.
+
+Determine the impact of discounts on sales volume and revenue.
+
+Customer Behavior Insights
+
+Segment customers based on purchase frequency and spending.
+
+Identify high-value customers and their preferred coffee types.
+
+Analyze whether discounts influence repeat purchases.
+
+Pricing & Discount Strategy
+
+Assess how discounts affect overall profitability.
+
+Recommend optimal discount strategies (e.g., which products benefit most from promotions).
+
+Forecasting & Inventory Planning
+
+Predict future sales trends using historical data.
+
+Suggest inventory adjustments based on seasonal demand.
+
+Expected Deliverables:
+✔ SQL queries extracting key metrics (e.g., monthly sales, customer retention, discount impact).
+✔ Visualizations (via Tableau/Power BI if applicable) showing trends.
+✔ Summary report with actionable recommendations.

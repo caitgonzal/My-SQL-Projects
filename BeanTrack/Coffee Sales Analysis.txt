@@ -1,0 +1,34 @@
+key insights and analysis
+
+sales performance
+
+	top sales
+	top selling products ranking by revenue
+	impact of discounts (sales w and w/o), products that had more sales w discounrs
+
+customer behavior
+
+	customer segmentation insights: high value customers & occasional buyers
+	repeat purchase rate: % repeat customers
+	preference by segment
+
+pricing & profitability
+
+	profit margin analysis: which products have highest/lowest margins
+	discount effectiveness: did discounts increase volume enough to offset revenue loss
+
+seasonal trends & forecasting
+
+	peak seasons (ramadan and winter months)
+	inventory recommendations: suggest stock adjustments based on trends
+
+recommendations
+
+	marketing: target (customer segment) with loyalty discounts, promote (3rd top selling) more aggressively
+	pricing: limit discounts on already high margin products
+	inventory: increase stock before peak seasons
+	
+
+Conclusion
+
+	By focusing on (customer segments) and optimizing discount strategies, BeanTrack can increase revenue by an estimated 15%. Future analysis should incorporate customer feedback for deeper insights.
